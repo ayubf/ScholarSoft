@@ -32,7 +32,7 @@ This is supposed to be modeled after the management system that a high school wo
         ┃ ┣ 📜Student.java 
         ┃ ┗ 📜Teacher.java
         ┣ 📜README.md 
-        ┗ 📜main.java 
+        ┗ 📜Main.java 
 
 
 The ```Classes``` folder is meant for the classes to create the objects needed. The ``Main.java`` file is where the driver code is. 
