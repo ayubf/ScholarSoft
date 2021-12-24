@@ -13,9 +13,8 @@ I think I'm starting to enjoy using Java more and more and I've recently been wo
 -  Teachers
 
 
-Every grade has a set number of students. Every class has a set number of students.Classes also have students but also one teacher per class. Grades can have a number of teachers
+Every grade has a set number of students. Every class has a set number of students. Classes also have students but also one teacher per class. Grades can have a number of teachers.
 
-Teachers are the special class, with multiple grades per teacher but only one class per teacher
 
 ### Class Breakdown
 
