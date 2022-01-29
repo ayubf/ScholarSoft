@@ -2,8 +2,7 @@
 
 ## Goals
 
-I think I'm starting to enjoy using Java more and more and I've recently been working on something like this but in Python. OOP and systems like the one in this repo really pique my interest. I've always been interested in the software institutions like schools and hospitals use.
-
+I think I'm starting to use Java more and more and I've recently been working on something like this but in Python. 
 
 ## Classes
 -  School
